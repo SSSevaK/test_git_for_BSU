@@ -4,6 +4,7 @@ maybe another word???
  
 
 asdrffsdre
+<<<<<<< HEAD
 wr
 ew
 rwe
@@ -20,3 +21,17 @@ rtey
 rtjui7
 qg
 yrgt
+=======
+ewr
+we
+rwe
+r
+we
+rwe
+r
+EW
+REWRWR
+EWREWRE
+WR
+WE
+>>>>>>> d7db551 (MySIY)
